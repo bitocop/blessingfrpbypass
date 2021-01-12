@@ -514,6 +514,13 @@ a img{
   height: 40px;
   margin-right: 16px;
 }
+
+.mdl-list {
+  display: block;
+  padding: 8px 50px;
+  list-style: none;
+}
+
 .mdl-button--raised.mdl-button--colored {
   background: #000000;
   color: #fff;
