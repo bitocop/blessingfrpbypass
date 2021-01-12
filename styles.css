@@ -77,7 +77,7 @@ a img{
   background-color: white;
 }
 .mdl-list__item{
-  width: 432px;
+  width: 600px;
 }
 
 .mdl-list__item-avatar, .mdl-list__item-avatar.material-icons {
@@ -98,6 +98,7 @@ a img{
 .mdl-button--raised.mdl-button--colored {
   background: #000000;
   color: #fff;
+  margin: 5px;
 }
   .android-header .material-icons {
     color: #1900ff !important;
@@ -497,7 +498,7 @@ a img{
     display: none;
   }
   .mdl-list__item{
-    width: 350px;
+    width: 450px;
   }
   .mdl-list__item-avatar, .mdl-list__item-avatar.material-icons {
     height: 40px;
@@ -517,7 +518,7 @@ a img{
 
 .mdl-list {
   display: block;
-  padding: 8px 50px;
+  padding: 3px 30px;
   list-style: none;
 }
 
